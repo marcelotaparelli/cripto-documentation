@@ -1,11 +1,5 @@
 # cripto-documentation
 
-# Guia de Criptografia e Autenticação em Node.js
-
-Este documento descreve o processo técnico de proteção de credenciais, desde o recebimento da senha em texto plano até o armazenamento seguro em banco de dados e a subsequente autorização via tokens.
-
----
-
 ## 1. Conceitos Fundamentais
 
 ### Salt (Sal)
